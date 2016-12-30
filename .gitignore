@@ -2,3 +2,8 @@ node_modules
 coverage
 npm-debug.log
 node_modules/
+.idea
+temp/
+.DS_Store
+dist/
+test/tmp
